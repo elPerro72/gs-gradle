@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'application'
 
-mainClassName = 'hello.Effe'
+mainClassName = 'hello.SingleParameter'
 
 // tag::repositories[]
 repositories { 
