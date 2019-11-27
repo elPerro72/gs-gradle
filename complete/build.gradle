@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'application'
 
-mainClassName = 'hello.SingleParameter'
+mainClassName = 'hello.ComparatorUsingLambdas'
 
 // tag::repositories[]
 repositories { 
